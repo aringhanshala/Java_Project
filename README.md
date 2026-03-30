@@ -2,7 +2,7 @@
 
 ## Overview
 
-BTech CSE 4th Semester PBL Project (Phase 2 - Core Implementation).
+BTech CSE 4th Semester PBL Project.
 A Java Spring Boot application that generates, collects, parses, and analyzes application logs in real-time, with a rule-based cybersecurity threat detection engine.
 
 ## Tech Stack
